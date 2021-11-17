@@ -33,7 +33,7 @@ else:
 
 ***Flowchart :***
 
-![.](Flowchart/Flowchart.png)
+![.](Flowchart/flowchart.png)
 
 ***Output :***
 
