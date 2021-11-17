@@ -1,4 +1,4 @@
-# <p align="center"> ***Tugas Praktikum 2***
+# <p align="center"> **Tugas Praktikum 2**
 
 ***Perintah :***
 1. Buat repository dengan nama labspy02
